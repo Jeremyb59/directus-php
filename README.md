@@ -1,26 +1,4 @@
-<p align="center">
-  <a href="https://directus.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/522079/43096167-3a1b1118-8e86-11e8-9fb2-7b4e3b1368bc.png" width="140" alt="Directus Logo"/>
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<h1 align="center">
-  Directus 8
-</h1>
-
-<h3 align="center">
-  <a href="https://directus.io">Website</a> • 
-  <a href="https://docs.directus.io">Docs</a> • 
-  <a href="https://docs.directus.io/api/reference.html">API Reference</a> • 
-  <a href="https://docs.directus.io/guides/user-guide.html">User Guide</a> • 
-  <a href="https://docs.directus.io/getting-started/supporting-directus.html">Contribute</a> • 
-  <a href="https://twitter.com/directus">Twitter</a> • 
-  <a href="https://directus.chat">Community</a>
-</h3>
-
-<p>&nbsp;</p>
+<h1 align="center">Directus 8</h1>
 
 ## 🐰 Introduction
 
