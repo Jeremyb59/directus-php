@@ -1,10 +1,7 @@
 <?php
-
 // Directus Project Config Example
-
 // Directus config files control everything that the API needs to know in order to run a project.
 // This includes database credentials, where to save files, and what social providers to allow
-
 return [
     'database' => [
         'type' => 'mysql',          // Only mysql is supported
@@ -157,12 +154,10 @@ return [
     'tableBlacklist' => [],         // What tables to globally ignore within Directus
 
     'env' => 'production',          // production, development, or staging
-                                    // Production silences stack traces and error details in API output
-
+                                 // Production silences stack traces and error details in API output
     'logger' => [
         'path' => '../logs',       // Where to save warning and error logs for the API
     ],
-
     'feedback' => [
         'token' => '123',           // Not currently used
         'login' => true             // Not currently used
